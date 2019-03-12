@@ -1,0 +1,12 @@
+﻿#
+# Notation:
+#	- Empty Tile
+#	* Mine
+#	e Exit
+#	^|v|<|> The players starting tile and direction (North,South,East,West)
+#
+
+-----
+^*-*-
+----e
+---*-
